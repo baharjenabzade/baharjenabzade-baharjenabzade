@@ -1,12 +1,21 @@
+<div align="center">
+
+# Zahra Jenabzadeh
+
+### AI Researcher | Federated Learning | LLMs | Computer Vision
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:4f46e5&height=180&section=header&text=AI%20Research%20%26%20Federated%20Learning&fontSize=25&fontColor=ffffff" />
+
+</div>
 # Hi, I'm Zahra 👋
 
 ### AI Researcher | Federated Learning | LLMs | Computer Vision
 
 I am an AI researcher focusing on:
-- Federated Learning (Personalized FL, Secure FL)
-- Large Language Models (LLMs, fine-tuning, LoRA)
-- Computer Vision & Geometric Deep Learning
+- Federated Learning (Personalized + Secure FL)
+- Large Language Models (LLMs, LoRA, fine-tuning)
 - Multi-agent AI systems
+- Computer Vision & Geometric Deep Learning
 
 ---
 
@@ -35,12 +44,26 @@ I am an AI researcher focusing on:
 
 ---
 
-## 🛠️ Tech Stack
-`Python` `PyTorch` `TensorFlow` `NLP` `LLMs`  
-`LangChain` `Docker` `OpenCV` `Flask` `Django`  
-`Federated Learning` `LoRA` `Vector Databases`
+## 🛠 Tech Stack
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs-black?style=for-the-badge)
+![Federated Learning](https://img.shields.io/badge/Federated_Learning-blue?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ---
+
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+
+</div>
 
 ## 📫 Contact
 - Email: your_email@gmail.com  
