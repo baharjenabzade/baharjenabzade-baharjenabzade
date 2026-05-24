@@ -4,7 +4,7 @@
 
 ### AI Researcher | Federated Learning | LLMs | Computer Vision
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:4f46e5&height=180&section=header&text=AI%20Research%20%26%20Federated%20Learning&fontSize=25&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:2f80ed&height=200&section=header&text=Zahra%20Jenabzadeh&fontSize=35&fontColor=ffffff&animation=fadeIn" />
 
 </div>
 # Hi, I'm Zahra 👋
